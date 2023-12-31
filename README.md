@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Ahmet from Manisa<br><br>- I'm a fourth year student at Ondokuz Mayıs University.<br>- I am currently working on my graduation project on artificial intelligence learning under the sub-heading of ensemble learning.<br>- Coding mobile programs with React Native and Flutter.</p>
+<p align="left">I'm Ahmet from Manisa<br><br>- I'm a fourth year student at Ondokuz Mayıs University.<br>- I am currently working on my graduation project on artificial intelligence learning under the sub-heading of ensemble learning.<br>- Coding mobile applications with React Native and Flutter.</p>
 
 ###
 
